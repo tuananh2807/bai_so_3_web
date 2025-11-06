@@ -1,9 +1,5 @@
 # bai_so_3_web
 Bài tập 3   : môn Phát triển ứng dụng trên nền web
-Giảng viên  : Đỗ Duy Cốp
-Lớp học phần: 58KTPM
-Ngày giao   : 2025-10-24 13:50
-Hạn nộp     : 2025-11-05 00:00
 --------------------------------------------------
 Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 1. Cài đặt môi trường linux: SV chọn 1 trong các phương án
@@ -47,14 +43,6 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 Yêu cầu sinh viên lưu code trên github
 có file readme.md có hình ảnh + text: ghi lại nhật ký quá trình làm bài.
-
-CÁCH ĐÁNH GIÁ:
-1. Cài đặt được môi trường: 1đ
-2. Cài đặt được các docker container với cấu hình phù hợp: 1đ
-3. Web chạy được, giao diện phù hợp, chạy trên web sever nginx: 2đ
-4. nodered api trả về json, test được: 2đ
-5. front-end có js gọi được api nodered, nhận về json, hiển thị được kết quả từ json này. 2đ
-6. Bài làm có dấu ấn, giải thích rõ ràng, hiểu vấn đề: 2đ
 
 # 1 cài đặt môi trường 
 dùng wsl 2
@@ -146,6 +134,6 @@ kết quả chạy html
 gọi được API dữ liệu 
 <img width="1836" height="912" alt="image" src="https://github.com/user-attachments/assets/4fb85124-313f-4614-8522-a00fb1780461" />
 
-# không gọi được API login
+
 
 
